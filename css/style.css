@@ -1,0 +1,78 @@
+main{
+	font-family: 'Gill Sans', sans-serif;
+    background-color: #95e0f4;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+h1{
+	text-align: center;
+	font-size: 29px;
+	color: black;
+	width: auto;
+	margin: 0 auto;
+
+}
+
+.slit{
+	display: block;
+	position: relative;
+	justify-content: center;
+	margin: 0 auto;
+	padding: 5vmin;
+	width: 55vmin;
+	height: 57vmin;
+	text-align: center;
+    background: #3bccc4;
+	border-radius: 15px;
+    border: 5px solid #476770;
+}
+
+.image{
+	width: 14vmin;
+	box-sizing: border-box;
+	margin: auto 1vmin 1vmin 1vmin;
+	height: 14vmin;
+	background-color: #C35555;
+	border-radius: 10px;
+    object-fit: cover;
+
+}
+
+.aim{
+	display: block;
+	position: relative;
+	justify-content: center;
+	margin: auto;
+	font-size: 3vmin;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	color: white;
+}
+
+.button{
+	display: block;
+	position: relative;
+	justify-content: center;
+	margin: auto;
+	width: 22vmin;
+	height: auto;
+    padding: 5px;
+	text-align: center;
+	font-size: 3.5vmin;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: aliceblue;
+    background-color: #ff4f60;
+	border-radius: 10px;
+	border: 3px solid black;
+
+}
+
+.result{
+	font-size: 3.5vmin;
+	font-weight: bold;
+}
